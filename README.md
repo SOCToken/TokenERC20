@@ -1,2 +1,1 @@
-# TokenERC20
-TOKEN
+# socERC20
